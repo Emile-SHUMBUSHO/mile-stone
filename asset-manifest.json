@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mile-stone/static/css/main.7059c648.css",
+    "main.css": "/mile-stone/static/css/main.22233ca4.css",
     "main.js": "/mile-stone/static/js/main.410cb011.js",
     "static/js/787.3b063628.chunk.js": "/mile-stone/static/js/787.3b063628.chunk.js",
     "static/media/10.jpg": "/mile-stone/static/media/10.9411aff9bf4ffd464476.jpg",
@@ -14,12 +14,12 @@
     "static/media/wave.png": "/mile-stone/static/media/wave.fdfef4069ad90f610990.png",
     "static/media/house.png": "/mile-stone/static/media/house.640d0b1e39b36fd2550c.png",
     "index.html": "/mile-stone/index.html",
-    "main.7059c648.css.map": "/mile-stone/static/css/main.7059c648.css.map",
+    "main.22233ca4.css.map": "/mile-stone/static/css/main.22233ca4.css.map",
     "main.410cb011.js.map": "/mile-stone/static/js/main.410cb011.js.map",
     "787.3b063628.chunk.js.map": "/mile-stone/static/js/787.3b063628.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7059c648.css",
+    "static/css/main.22233ca4.css",
     "static/js/main.410cb011.js"
   ]
 }
